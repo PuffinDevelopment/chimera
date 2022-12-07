@@ -5,6 +5,7 @@
 [![License]][apache]
 [![GitHub stars]][stars]
 [![GitHub issues]][issues]
+<a href="https://discord.gg/DttJf7cdxB"><img src="https://img.shields.io/discord/882548859627266058?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
 
 </div>
 
